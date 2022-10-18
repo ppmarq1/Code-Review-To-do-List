@@ -4,6 +4,8 @@
 
 > In this project, you will see a simple HTML list of "To Do tasks". This simple web page was built using webpack and served by a webpack dev server.
 
+![screenshot](./src/image/screenshottodolist.png)
+
 ## Built With
 
 - HTML
@@ -14,7 +16,7 @@
 
 ## Live Demo 
 
-Feel free to check the: [Portfolio-link](https://ppmarq1.github.io/To-Do-List/)
+Feel free to check the: [Portfolio-link](https://to-do-list-ppmarq.netlify.app/)
 
 ### Install
 
